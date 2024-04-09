@@ -2,7 +2,7 @@
 title: "The Role of Visualization in Abstract Mathematical Discovery"
 subtitle: "Faculty of Arts and Science, University of Toronto"
 author: "Cristina Burca"
-thanks: "Code and data are available at: LINK."
+thanks: "Code and data are available at: https://github.com/crisburca/MAT391_Paper.git."
 abstract: " By examining Stott’s ability to visualize complex objects and how it led to groundbreaking insights, alongside Coxeter’s contributions that emphasized the necessity of formal proof and classification, this thesis argues the importance of visualization, especially in conceptualizing abstract structures that are beyond our immediate interpretation. While mathematics is largely empirical and reliant on provable notions, the necessity of intuitive and visual methods to establish an understanding of complex geometrical concepts greatly contributes to the formal mathematical methods in reaching a replicable understanding of complex geometric structures. To navigate to higher dimensions of mathematics, an intuitive approach is valuable in establishing a replicable understanding of complex geometric structures."
 format: 
   pdf:
